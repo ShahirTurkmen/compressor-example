@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "archiver": "^7.0.1",
     "browserify-zlib": "^0.2.0",
     "closevector-browserify-zlib": "^0.1.0-alpha.3",
     "decompress-response": "^9.0.0",
