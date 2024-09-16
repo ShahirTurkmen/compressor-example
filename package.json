@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "browserify-zlib": "^0.2.0",
+    "closevector-browserify-zlib": "^0.1.0-alpha.3",
+    "decompress-response": "^9.0.0",
+    "gzipper": "^8.1.0",
+    "minizlib": "^3.0.1",
+    "pako": "^2.1.0",
+    "tiny-inflate": "^1.0.3",
+    "unzip-stream": "^0.3.4",
+    "zlibjs": "^0.3.1"
+  }
+}
